@@ -1,0 +1,1 @@
+this.ola2 = 'Bem Vindo Galerinha do Bem!!!';
